@@ -7,7 +7,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb20b351-b706-4513-9e8d-8cba31571c8c" name="Changes" comment="" />
+    <list default="true" id="fb20b351-b706-4513-9e8d-8cba31571c8c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Fundamentals/TypeSystem/_2_Namespaces/_1_Namespaces/_1_Namespaces.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fundamentals/TypeSystem/_2_Namespaces/_1_Namespaces/_2_DotNet6Changes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fundamentals/TypeSystem/_2_Namespaces/_1_Namespaces/_2_DotNet6Changes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSharpOOPS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CSharpOOPS/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/_2_Namespaces/_1_Namespaces/Namespaces.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/_2_Namespaces/_1_Namespaces/_1_Namespaces.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/TypeSystem/_2_Namespaces/_1_Namespaces/_1_Namespaces.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1732967387433</updated>
       <workItem from="1732967389666" duration="19567000" />
-      <workItem from="1733199871499" duration="301000" />
+      <workItem from="1733199871499" duration="3124000" />
     </task>
     <servers />
   </component>
