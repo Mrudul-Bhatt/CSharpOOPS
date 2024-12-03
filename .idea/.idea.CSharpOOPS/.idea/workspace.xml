@@ -7,36 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb20b351-b706-4513-9e8d-8cba31571c8c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.CSharpOOPS/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.CSharpOOPS/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.CSharpOOPS/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSharpOOPS.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSharpOOPS.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_10_CompileVsRunTimeType/CompileVsRunTimeType.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_10_CompileVsRunTimeType/CompileVsRunTimeType.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_6_ValueTypeVsReferenceType/NewFile1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_6_ValueTypeVsReferenceType/Overview.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_6_ValueTypeVsReferenceType/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_6_ValueTypeVsReferenceType/ReferenceType.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_6_ValueTypeVsReferenceType/ReferenceType.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_6_ValueTypeVsReferenceType/Sol.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_6_ValueTypeVsReferenceType/ValueType.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_6_ValueTypeVsReferenceType/ValueType.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_6_ValueTypeVsReferenceType/notes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_6_ValueTypeVsReferenceType/notes2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_7_TypesOfLiteralValues/LiteralValues.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_7_TypesOfLiteralValues/LiteralValues.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_8_GenericTypes/ExtraNotes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_8_GenericTypes/GenericTypes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_8_GenericTypes/GenericTypes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_9_ImplicitAnonymousNullable/IAN.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_9_ImplicitAnonymousNullable/IAN.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/TypeSystem/_2_Namespaces/_1_Namespaces/Namespaces.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/TypeSystem/_2_Namespaces/_1_Namespaces/_1_Namespaces.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
-    </list>
+    <list default="true" id="fb20b351-b706-4513-9e8d-8cba31571c8c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,9 +20,9 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/b7045782638f44eaa027e1f0eaa4b86eb57e00/8b/a0e713e5/Int32.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2pZItUjuNkUXSeRNhgozAtsPPKk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -60,22 +31,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "rider.code.cleanup.on.save": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;rider.code.cleanup.on.save&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="CSharpOOPS" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -105,6 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1732967387433</updated>
       <workItem from="1732967389666" duration="19567000" />
+      <workItem from="1733199871499" duration="301000" />
     </task>
     <servers />
   </component>
