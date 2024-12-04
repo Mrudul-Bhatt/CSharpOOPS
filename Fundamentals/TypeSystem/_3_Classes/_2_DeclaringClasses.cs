@@ -11,7 +11,6 @@ public class _2_DeclaringClasses
         {
             // Field
             private string name;
-
             // Property
             public string Name
             {
