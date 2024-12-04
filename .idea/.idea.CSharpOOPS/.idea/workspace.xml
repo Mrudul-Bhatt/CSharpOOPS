@@ -8,12 +8,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb20b351-b706-4513-9e8d-8cba31571c8c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Fundamentals/TypeSystem/_2_Namespaces/_1_Namespaces/_1_Namespaces.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/TypeSystem/_2_Namespaces/_1_Namespaces/_2_DotNet6Changes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/TypeSystem/_2_Namespaces/_1_Namespaces/_2_DotNet6Changes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fundamentals/TypeSystem/_4_Records/_1_RecordTypes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fundamentals/TypeSystem/_4_Records/_1_RecordTypes.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CSharpOOPS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CSharpOOPS/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/_2_Namespaces/_1_Namespaces/Namespaces.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/_2_Namespaces/_1_Namespaces/_1_Namespaces.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/TypeSystem/_2_Namespaces/_1_Namespaces/_1_Namespaces.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,22 +35,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;rider.code.cleanup.on.save&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "rider.code.cleanup.on.save": "true",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="CSharpOOPS" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -83,7 +80,8 @@
       <option name="presentableId" value="Default" />
       <updated>1732967387433</updated>
       <workItem from="1732967389666" duration="19567000" />
-      <workItem from="1733199871499" duration="3124000" />
+      <workItem from="1733199871499" duration="3192000" />
+      <workItem from="1733284708511" duration="2756000" />
     </task>
     <servers />
   </component>
