@@ -8,8 +8,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb20b351-b706-4513-9e8d-8cba31571c8c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Fundamentals/TypeSystem/_4_Records/_1_RecordTypes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/TypeSystem/_4_Records/_1_RecordTypes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fundamentals/TypeSystem/_5_Interfaces/_1_Interface.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fundamentals/TypeSystem/_5_Interfaces/_1_Interface.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fundamentals/TypeSystem/_6_Generics/_1_Generics.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fundamentals/TypeSystem/_6_Generics/_1_Generics.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CSharpOOPS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CSharpOOPS/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Mrudul-Bhatt&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Mrudul-Bhatt/CSharpOOPS.git&quot;,
+    &quot;accountId&quot;: &quot;22db4c6c-9197-4ba3-ac0c-5e5231d9ee81&quot;
+  }
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/b7045782638f44eaa027e1f0eaa4b86eb57e00/8b/a0e713e5/Int32.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -47,7 +61,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "rider.code.cleanup.on.save": "true",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -81,8 +95,19 @@
       <updated>1732967387433</updated>
       <workItem from="1732967389666" duration="19567000" />
       <workItem from="1733199871499" duration="3192000" />
-      <workItem from="1733284708511" duration="2756000" />
+      <workItem from="1733284708511" duration="3495000" />
+      <workItem from="1733340625343" duration="1302000" />
+      <workItem from="1733374947980" duration="1121000" />
     </task>
+    <task id="LOCAL-00001" summary="record types">
+      <option name="closed" value="true" />
+      <created>1733289609156</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733289609156</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +117,8 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="record types" />
+    <option name="LAST_COMMIT_MESSAGE" value="record types" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
