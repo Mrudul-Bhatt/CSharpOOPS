@@ -7,44 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb20b351-b706-4513-9e8d-8cba31571c8c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_7_AnonymousTypes/_1_AnonymousTypes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_7_AnonymousTypes/_1_AnonymousTypes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/_2_ObjectOrientedProg/_1_ClassesStructsRecords/_1_Encapsulation.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/_2_ObjectOrientedProg/_1_ClassesStructsRecords/_1_Encapsulation.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/_2_ObjectOrientedProg/_1_ClassesStructsRecords/_2_MembersOfClass.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/_2_ObjectOrientedProg/_1_ClassesStructsRecords/_2_MembersOfClass.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSharpOOPS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CSharpOOPS/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_10_CompileVsRunTimeType/CompileVsRunTimeType.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_1_Overview/_10_CompileVsRunTimeType/CompileVsRunTimeType.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_10_CompileVsRunTimeType/CompileVsRunTimeType.md" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_1_Overview/_10_CompileVsRunTimeType/CompileVsRunTimeType.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_6_ValueTypeVsReferenceType/NewFile1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_1_Overview/_6_ValueTypeVsReferenceType/NewFile1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_6_ValueTypeVsReferenceType/Overview.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_1_Overview/_6_ValueTypeVsReferenceType/Overview.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_6_ValueTypeVsReferenceType/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_1_Overview/_6_ValueTypeVsReferenceType/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_6_ValueTypeVsReferenceType/ReferenceType.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_1_Overview/_6_ValueTypeVsReferenceType/ReferenceType.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_6_ValueTypeVsReferenceType/ReferenceType.md" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_1_Overview/_6_ValueTypeVsReferenceType/ReferenceType.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_6_ValueTypeVsReferenceType/Sol.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_1_Overview/_6_ValueTypeVsReferenceType/Sol.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_6_ValueTypeVsReferenceType/ValueType.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_1_Overview/_6_ValueTypeVsReferenceType/ValueType.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_6_ValueTypeVsReferenceType/ValueType.md" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_1_Overview/_6_ValueTypeVsReferenceType/ValueType.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_6_ValueTypeVsReferenceType/notes.md" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_1_Overview/_6_ValueTypeVsReferenceType/notes.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_6_ValueTypeVsReferenceType/notes2.md" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_1_Overview/_6_ValueTypeVsReferenceType/notes2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_7_TypesOfLiteralValues/LiteralValues.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_1_Overview/_7_TypesOfLiteralValues/LiteralValues.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_7_TypesOfLiteralValues/LiteralValues.md" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_1_Overview/_7_TypesOfLiteralValues/LiteralValues.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_8_GenericTypes/ExtraNotes.md" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_1_Overview/_8_GenericTypes/ExtraNotes.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_8_GenericTypes/GenericTypes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_1_Overview/_8_GenericTypes/GenericTypes.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_8_GenericTypes/GenericTypes.md" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_1_Overview/_8_GenericTypes/GenericTypes.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_9_ImplicitAnonymousNullable/IAN.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_1_Overview/_9_ImplicitAnonymousNullable/IAN.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_9_ImplicitAnonymousNullable/IAN.md" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_1_Overview/_9_ImplicitAnonymousNullable/IAN.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/_2_Namespaces/_1_Namespaces/_1_Namespaces.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_2_Namespaces/_1_Namespaces/_1_Namespaces.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/_2_Namespaces/_1_Namespaces/_1_Namespaces.md" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_2_Namespaces/_1_Namespaces/_1_Namespaces.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/_2_Namespaces/_1_Namespaces/_2_DotNet6Changes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_2_Namespaces/_1_Namespaces/_2_DotNet6Changes.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/_2_Namespaces/_1_Namespaces/_2_DotNet6Changes.md" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_2_Namespaces/_1_Namespaces/_2_DotNet6Changes.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/_4_Records/_1_RecordTypes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_4_Records/_1_RecordTypes.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/_4_Records/_1_RecordTypes.md" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_4_Records/_1_RecordTypes.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/_5_Interfaces/_1_Interface.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_5_Interfaces/_1_Interface.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/_5_Interfaces/_1_Interface.md" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_5_Interfaces/_1_Interface.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/_6_Generics/_1_Generics.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_6_Generics/_1_Generics.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/_6_Generics/_1_Generics.md" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_6_Generics/_1_Generics.md" afterDir="false" />
-    </list>
+    <list default="true" id="fb20b351-b706-4513-9e8d-8cba31571c8c" name="Changes" comment="rearrange" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -130,7 +93,7 @@
       <workItem from="1733340625343" duration="1302000" />
       <workItem from="1733374947980" duration="1705000" />
       <workItem from="1733419981494" duration="4440000" />
-      <workItem from="1733562071570" duration="677000" />
+      <workItem from="1733562071570" duration="1325000" />
     </task>
     <task id="LOCAL-00001" summary="record types">
       <option name="closed" value="true" />
@@ -148,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733376591046</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="rearrange">
+      <option name="closed" value="true" />
+      <created>1733565847042</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733565847042</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,7 +131,8 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="record types" />
     <MESSAGE value="generics and interface" />
-    <option name="LAST_COMMIT_MESSAGE" value="generics and interface" />
+    <MESSAGE value="rearrange" />
+    <option name="LAST_COMMIT_MESSAGE" value="rearrange" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
