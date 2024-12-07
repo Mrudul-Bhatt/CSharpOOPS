@@ -1,7 +1,6 @@
 ### **Top-Level Statements and Implicit Global Usings in .NET 6**
 
-.NET 6 introduces several new features to simplify application development, including **top-level statements** and *
-*implicit global using directives**.
+.NET 6 introduces several new features to simplify application development, including **top-level statements** and **implicit global using directives**.
 
 * * * * *
 
