@@ -8,11 +8,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb20b351-b706-4513-9e8d-8cba31571c8c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Fundamentals/TypeSystem/_5_Interfaces/_1_Interface.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/TypeSystem/_5_Interfaces/_1_Interface.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/TypeSystem/_6_Generics/_1_Generics.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/TypeSystem/_6_Generics/_1_Generics.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_7_AnonymousTypes/_1_AnonymousTypes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_7_AnonymousTypes/_1_AnonymousTypes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fundamentals/_2_ObjectOrientedProg/_1_ClassesStructsRecords/_1_Encapsulation.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fundamentals/_2_ObjectOrientedProg/_1_ClassesStructsRecords/_1_Encapsulation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fundamentals/_2_ObjectOrientedProg/_1_ClassesStructsRecords/_2_MembersOfClass.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fundamentals/_2_ObjectOrientedProg/_1_ClassesStructsRecords/_2_MembersOfClass.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CSharpOOPS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CSharpOOPS/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_10_CompileVsRunTimeType/CompileVsRunTimeType.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_1_Overview/_10_CompileVsRunTimeType/CompileVsRunTimeType.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_10_CompileVsRunTimeType/CompileVsRunTimeType.md" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_1_Overview/_10_CompileVsRunTimeType/CompileVsRunTimeType.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_6_ValueTypeVsReferenceType/NewFile1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_1_Overview/_6_ValueTypeVsReferenceType/NewFile1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_6_ValueTypeVsReferenceType/Overview.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_1_Overview/_6_ValueTypeVsReferenceType/Overview.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_6_ValueTypeVsReferenceType/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_1_Overview/_6_ValueTypeVsReferenceType/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_6_ValueTypeVsReferenceType/ReferenceType.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_1_Overview/_6_ValueTypeVsReferenceType/ReferenceType.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_6_ValueTypeVsReferenceType/ReferenceType.md" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_1_Overview/_6_ValueTypeVsReferenceType/ReferenceType.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_6_ValueTypeVsReferenceType/Sol.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_1_Overview/_6_ValueTypeVsReferenceType/Sol.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_6_ValueTypeVsReferenceType/ValueType.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_1_Overview/_6_ValueTypeVsReferenceType/ValueType.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_6_ValueTypeVsReferenceType/ValueType.md" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_1_Overview/_6_ValueTypeVsReferenceType/ValueType.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_6_ValueTypeVsReferenceType/notes.md" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_1_Overview/_6_ValueTypeVsReferenceType/notes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_6_ValueTypeVsReferenceType/notes2.md" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_1_Overview/_6_ValueTypeVsReferenceType/notes2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_7_TypesOfLiteralValues/LiteralValues.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_1_Overview/_7_TypesOfLiteralValues/LiteralValues.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_7_TypesOfLiteralValues/LiteralValues.md" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_1_Overview/_7_TypesOfLiteralValues/LiteralValues.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_8_GenericTypes/ExtraNotes.md" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_1_Overview/_8_GenericTypes/ExtraNotes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_8_GenericTypes/GenericTypes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_1_Overview/_8_GenericTypes/GenericTypes.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_8_GenericTypes/GenericTypes.md" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_1_Overview/_8_GenericTypes/GenericTypes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_9_ImplicitAnonymousNullable/IAN.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_1_Overview/_9_ImplicitAnonymousNullable/IAN.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/Overview/_9_ImplicitAnonymousNullable/IAN.md" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_1_Overview/_9_ImplicitAnonymousNullable/IAN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/_2_Namespaces/_1_Namespaces/_1_Namespaces.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_2_Namespaces/_1_Namespaces/_1_Namespaces.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/_2_Namespaces/_1_Namespaces/_1_Namespaces.md" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_2_Namespaces/_1_Namespaces/_1_Namespaces.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/_2_Namespaces/_1_Namespaces/_2_DotNet6Changes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_2_Namespaces/_1_Namespaces/_2_DotNet6Changes.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/_2_Namespaces/_1_Namespaces/_2_DotNet6Changes.md" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_2_Namespaces/_1_Namespaces/_2_DotNet6Changes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/_4_Records/_1_RecordTypes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_4_Records/_1_RecordTypes.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/_4_Records/_1_RecordTypes.md" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_4_Records/_1_RecordTypes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/_5_Interfaces/_1_Interface.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_5_Interfaces/_1_Interface.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/_5_Interfaces/_1_Interface.md" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_5_Interfaces/_1_Interface.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/_6_Generics/_1_Generics.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_6_Generics/_1_Generics.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/_6_Generics/_1_Generics.md" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_6_Generics/_1_Generics.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,22 +80,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "rider.code.cleanup.on.save": "true",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;rider.code.cleanup.on.save&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="CSharpOOPS" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -97,7 +128,9 @@
       <workItem from="1733199871499" duration="3192000" />
       <workItem from="1733284708511" duration="3495000" />
       <workItem from="1733340625343" duration="1302000" />
-      <workItem from="1733374947980" duration="1121000" />
+      <workItem from="1733374947980" duration="1705000" />
+      <workItem from="1733419981494" duration="4440000" />
+      <workItem from="1733562071570" duration="677000" />
     </task>
     <task id="LOCAL-00001" summary="record types">
       <option name="closed" value="true" />
@@ -107,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733289609156</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="generics and interface">
+      <option name="closed" value="true" />
+      <created>1733376591046</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733376591046</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,7 +159,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="record types" />
-    <option name="LAST_COMMIT_MESSAGE" value="record types" />
+    <MESSAGE value="generics and interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="generics and interface" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
