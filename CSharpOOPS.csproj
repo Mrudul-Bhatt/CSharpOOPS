@@ -7,4 +7,8 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+        <Folder Include="Fundamentals\_4_FunctionalTechniques\_2_Discards\"/>
+    </ItemGroup>
+
 </Project>

@@ -1,10 +1,8 @@
-using System;
-
 namespace CSharpOOPS.Fundamentals._4_FunctionalTechniques._1_PatternMatching;
 
 public class _3_CompareDiscreteValues
 {
-    class Template1
+    private class Template1
     {
         public enum Operation
         {
@@ -14,25 +12,7 @@ public class _3_CompareDiscreteValues
             Reset
         }
 
-        public class SystemController
-        {
-            public string PerformOperation(Operation command) =>
-               command switch
-               {
-                   Operation.SystemTest => RunDiagnostics(),
-                   Operation.Start => StartSystem(),
-                   Operation.Stop => StopSystem(),
-                   Operation.Reset => ResetToReady(),
-                   _ => throw new ArgumentException("Invalid enum value for command", nameof(command)),
-               };
-
-            private string RunDiagnostics() => "Diagnostics running...";
-            private string StartSystem() => "System started.";
-            private string StopSystem() => "System stopped.";
-            private string ResetToReady() => "System reset.";
-        }
-
-        static void Main()
+        private static void Main()
         {
             // Usage:
             var controller = new SystemController();
@@ -40,29 +20,45 @@ public class _3_CompareDiscreteValues
             Console.WriteLine(controller.PerformOperation(Operation.Reset)); // Output: System reset.
         }
 
-    }
-
-    class Template2
-    {
         public class SystemController
         {
-            public string PerformOperation(string command) =>
-               command switch
-               {
-                   "SystemTest" => RunDiagnostics(),
-                   "Start" => StartSystem(),
-                   "Stop" => StopSystem(),
-                   "Reset" => ResetToReady(),
-                   _ => throw new ArgumentException("Invalid string value for command", nameof(command)),
-               };
+            public string PerformOperation(Operation command)
+            {
+                return command switch
+                {
+                    Operation.SystemTest => RunDiagnostics(),
+                    Operation.Start => StartSystem(),
+                    Operation.Stop => StopSystem(),
+                    Operation.Reset => ResetToReady(),
+                    _ => throw new ArgumentException("Invalid enum value for command", nameof(command))
+                };
+            }
 
-            private string RunDiagnostics() => "Diagnostics running...";
-            private string StartSystem() => "System started.";
-            private string StopSystem() => "System stopped.";
-            private string ResetToReady() => "System reset.";
+            private string RunDiagnostics()
+            {
+                return "Diagnostics running...";
+            }
+
+            private string StartSystem()
+            {
+                return "System started.";
+            }
+
+            private string StopSystem()
+            {
+                return "System stopped.";
+            }
+
+            private string ResetToReady()
+            {
+                return "System reset.";
+            }
         }
+    }
 
-        static void Main()
+    private class Template2
+    {
+        private static void Main()
         {
             // Usage:
             var controller = new SystemController();
@@ -70,33 +66,84 @@ public class _3_CompareDiscreteValues
             Console.WriteLine(controller.PerformOperation("Invalid")); // Throws ArgumentException
         }
 
-    }
-
-    class Template3
-    {
         public class SystemController
         {
-            public string PerformOperation(ReadOnlySpan<char> command) =>
-               command switch
-               {
-                   "SystemTest" => RunDiagnostics(),
-                   "Start" => StartSystem(),
-                   "Stop" => StopSystem(),
-                   "Reset" => ResetToReady(),
-                   _ => throw new ArgumentException("Invalid string value for command", nameof(command)),
-               };
+            public string PerformOperation(string command)
+            {
+                return command switch
+                {
+                    "SystemTest" => RunDiagnostics(),
+                    "Start" => StartSystem(),
+                    "Stop" => StopSystem(),
+                    "Reset" => ResetToReady(),
+                    _ => throw new ArgumentException("Invalid string value for command", nameof(command))
+                };
+            }
 
-            private string RunDiagnostics() => "Diagnostics running...";
-            private string StartSystem() => "System started.";
-            private string StopSystem() => "System stopped.";
-            private string ResetToReady() => "System reset.";
+            private string RunDiagnostics()
+            {
+                return "Diagnostics running...";
+            }
+
+            private string StartSystem()
+            {
+                return "System started.";
+            }
+
+            private string StopSystem()
+            {
+                return "System stopped.";
+            }
+
+            private string ResetToReady()
+            {
+                return "System reset.";
+            }
         }
+    }
 
-        static void Main()
+    private class Template3
+    {
+        private static void Main()
         {
             // Usage:
             var controller = new SystemController();
             Console.WriteLine(controller.PerformOperation("Stop".AsSpan())); // Output: System stopped.
+        }
+
+        public class SystemController
+        {
+            public string PerformOperation(ReadOnlySpan<char> command)
+            {
+                return command switch
+                {
+                    "SystemTest" => RunDiagnostics(),
+                    "Start" => StartSystem(),
+                    "Stop" => StopSystem(),
+                    "Reset" => ResetToReady(),
+                    _ => throw new ArgumentException("Invalid string value for command", nameof(command))
+                };
+            }
+
+            private string RunDiagnostics()
+            {
+                return "Diagnostics running...";
+            }
+
+            private string StartSystem()
+            {
+                return "System started.";
+            }
+
+            private string StopSystem()
+            {
+                return "System stopped.";
+            }
+
+            private string ResetToReady()
+            {
+                return "System reset.";
+            }
         }
     }
 }
