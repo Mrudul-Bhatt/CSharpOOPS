@@ -8,39 +8,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb20b351-b706-4513-9e8d-8cba31571c8c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Fundamentals/_2_ObjectOrientedProg/_1_ClassesStructsRecords/_3_Accessibility.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/_2_ObjectOrientedProg/_1_ClassesStructsRecords/_3_Accessibility.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/_2_ObjectOrientedProg/_2_Objects/_1_StructVsClassInstances.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/_2_ObjectOrientedProg/_2_Objects/_1_StructVsClassInstances.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/_2_ObjectOrientedProg/_2_Objects/_2_ObjecrIdentityVsValueEquality.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/_2_ObjectOrientedProg/_2_Objects/_2_ObjectIdentityVsValueEquality.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/_2_ObjectOrientedProg/_3_Inheritance/_1_Inheritance.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/_2_ObjectOrientedProg/_3_Inheritance/_1_Inheritance.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/_2_ObjectOrientedProg/_3_Inheritance/_2_AbstractAndVirtualMethods.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/_2_ObjectOrientedProg/_3_Inheritance/_2_AbstractAndVirtualMethods.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/_2_ObjectOrientedProg/_4_Polymorphism/_1_Polymorphism.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/_2_ObjectOrientedProg/_4_Polymorphism/_1_Polymorphism.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/_2_ObjectOrientedProg/_4_Polymorphism/_2_Polymorphism2.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/_2_ObjectOrientedProg/_4_Polymorphism/_2_Polymorphism2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_2_LINQ/_1_Overview.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_2_LINQ/_1_Overview.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_2_LINQ/_2_GettingStartedWithLINQ/_1_IntroToLINQ/_1_PartsOfQueryOperation.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_2_LINQ/_2_GettingStartedWithLINQ/_1_IntroToLINQ/_1_PartsOfQueryOperation.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_2_LINQ/_2_GettingStartedWithLINQ/_1_IntroToLINQ/_2_DataSource.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_2_LINQ/_2_GettingStartedWithLINQ/_1_IntroToLINQ/_2_DataSource.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_2_LINQ/_2_GettingStartedWithLINQ/_1_IntroToLINQ/_3_Execution.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_2_LINQ/_2_GettingStartedWithLINQ/_1_IntroToLINQ/_3_Execution.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_2_LINQ/_2_GettingStartedWithLINQ/_1_IntroToLINQ/_4_LINQToObjects.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_2_LINQ/_2_GettingStartedWithLINQ/_2_QueryExpressionsBasics/_1_QueryExpressions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_2_LINQ/_2_GettingStartedWithLINQ/_2_QueryExpressionsBasics/_1_QueryExpressions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_2_LINQ/_2_GettingStartedWithLINQ/_2_QueryExpressionsBasics/_2_Explicit&amp;ImplicitVariables.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_2_LINQ/_2_GettingStartedWithLINQ/_2_QueryExpressionsBasics/_3_Start&amp;EndOfQuery(Clauses).md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_2_LINQ/_2_GettingStartedWithLINQ/_2_QueryExpressionsBasics/_4_FilterOrder&amp;Join.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_2_LINQ/_2_GettingStartedWithLINQ/_2_QueryExpressionsBasics/_5_SubQueriesInExpression.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CSharpOOPS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CSharpOOPS/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSharpOOPS.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/CSharpOOPS.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/_3_Classes/_1_ReferenceTypes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_3_Classes/_1_ReferenceTypes.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/_3_Classes/_1_ReferenceTypes.md" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_3_Classes/_1_ReferenceTypes.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/_3_Classes/_2_DeclaringClasses.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_3_Classes/_2_DeclaringClasses.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/_3_Classes/_2_DeclaringClasses.md" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_3_Classes/_2_DeclaringClasses.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/_3_Classes/_3_Constructors&amp;Initialization.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_3_Classes/_3_Constructors&amp;Initialization.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/_3_Classes/_3_Constructors&amp;Initialization.md" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_3_Classes/_3_Constructors&amp;Initialization.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/_3_Classes/_4_ClassInheritance.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_3_Classes/_4_ClassInheritance.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/TypeSystem/_3_Classes/_4_ClassInheritance.md" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_1_TypeSystem/_3_Classes/_4_ClassInheritance.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/_4_FunctionalTechniques/_1_PatternMatching/_3_CompareDiscreteValues.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_4_FunctionalTechniques/_1_PatternMatching/_3_CompareDiscreteValues.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/_4_FunctionalTechniques/_1_PatternMatching/_4_MultipleInputMatching.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_4_FunctionalTechniques/_1_PatternMatching/_4_MultipleInputMatching.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/_4_FunctionalTechniques/_1_PatternMatching/_5_ListPatterns.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/_4_FunctionalTechniques/_1_PatternMatching/_5_ListPatterns.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +107,9 @@
       <workItem from="1733562071570" duration="9337000" />
       <workItem from="1733632927898" duration="9259000" />
       <workItem from="1733892914946" duration="1315000" />
-      <workItem from="1734062528580" duration="2465000" />
+      <workItem from="1734062528580" duration="2970000" />
+      <workItem from="1734244886355" duration="5922000" />
+      <workItem from="1734497246056" duration="1378000" />
     </task>
     <task id="LOCAL-00001" summary="record types">
       <option name="closed" value="true" />
@@ -164,6 +143,17 @@
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="record types" />
