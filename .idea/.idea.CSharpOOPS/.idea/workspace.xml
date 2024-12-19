@@ -8,15 +8,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb20b351-b706-4513-9e8d-8cba31571c8c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_2_LINQ/_2_GettingStartedWithLINQ/_1_IntroToLINQ/_3_Execution.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_2_LINQ/_2_GettingStartedWithLINQ/_1_IntroToLINQ/_3_Execution.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_2_LINQ/_2_GettingStartedWithLINQ/_1_IntroToLINQ/_4_LINQToObjects.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_2_LINQ/_2_GettingStartedWithLINQ/_2_QueryExpressionsBasics/_1_QueryExpressions.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_2_LINQ/_2_GettingStartedWithLINQ/_2_QueryExpressionsBasics/_1_QueryExpressions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_2_LINQ/_2_GettingStartedWithLINQ/_2_QueryExpressionsBasics/_2_Explicit&amp;ImplicitVariables.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_2_LINQ/_2_GettingStartedWithLINQ/_2_QueryExpressionsBasics/_3_Start&amp;EndOfQuery(Clauses).md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_2_LINQ/_2_GettingStartedWithLINQ/_2_QueryExpressionsBasics/_4_FilterOrder&amp;Join.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_2_LINQ/_2_GettingStartedWithLINQ/_2_QueryExpressionsBasics/_5_SubQueriesInExpression.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_2_LINQ/_2_GettingStartedWithLINQ/_3_WriteLINQ/_1_QueryVsMethodSyntax.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_2_LINQ/_2_GettingStartedWithLINQ/_3_WriteLINQ/_2_QueryVsMethodSyntax2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_2_LINQ/_2_GettingStartedWithLINQ/_3_WriteLINQ/_3_MixedQuery&amp;MethodSyntax.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_2_LINQ/_2_GettingStartedWithLINQ/_3_WriteLINQ/_4_DynamicPredicateRuntime.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_2_LINQ/_2_GettingStartedWithLINQ/_3_WriteLINQ/_5_HandlingNull&amp;Exceptions.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CSharpOOPS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CSharpOOPS/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -109,7 +105,8 @@
       <workItem from="1733892914946" duration="1315000" />
       <workItem from="1734062528580" duration="2970000" />
       <workItem from="1734244886355" duration="5922000" />
-      <workItem from="1734497246056" duration="1378000" />
+      <workItem from="1734497246056" duration="2128000" />
+      <workItem from="1734583162500" duration="2378000" />
     </task>
     <task id="LOCAL-00001" summary="record types">
       <option name="closed" value="true" />
