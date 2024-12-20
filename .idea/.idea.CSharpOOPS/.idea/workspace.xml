@@ -8,12 +8,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb20b351-b706-4513-9e8d-8cba31571c8c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_2_LINQ/_2_GettingStartedWithLINQ/_3_WriteLINQ/_1_QueryVsMethodSyntax.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_2_LINQ/_2_GettingStartedWithLINQ/_3_WriteLINQ/_2_QueryVsMethodSyntax2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_2_LINQ/_2_GettingStartedWithLINQ/_3_WriteLINQ/_3_MixedQuery&amp;MethodSyntax.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_2_LINQ/_2_GettingStartedWithLINQ/_3_WriteLINQ/_4_DynamicPredicateRuntime.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_2_LINQ/_2_GettingStartedWithLINQ/_3_WriteLINQ/_5_HandlingNull&amp;Exceptions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_2_LINQ/_2_GettingStartedWithLINQ/_4_TypeRelationInLINQ/_1_TypeRelationship.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CSharpOOPS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CSharpOOPS/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +103,8 @@
       <workItem from="1734062528580" duration="2970000" />
       <workItem from="1734244886355" duration="5922000" />
       <workItem from="1734497246056" duration="2128000" />
-      <workItem from="1734583162500" duration="2378000" />
+      <workItem from="1734583162500" duration="2406000" />
+      <workItem from="1734668532617" duration="2108000" />
     </task>
     <task id="LOCAL-00001" summary="record types">
       <option name="closed" value="true" />
