@@ -1,15 +1,13 @@
 {
-	"editor.fontSize": 13,
 	"editor.formatOnSave": true,
 	"editor.formatOnPaste": true,
 	"editor.defaultFormatter": "ms-dotnettools.csdevkit",
 	"[csharp]": {
 		"editor.defaultFormatter": "ms-dotnettools.csharp"
 	},
-	"editor.fontFamily": "Cascadia Code",
 	"editor.bracketPairColorization.enabled": false,
 	"[markdown]": {
-		"editor.defaultFormatter": "esbenp.prettier-vscode"
+		"editor.defaultFormatter": "yzhang.markdown-all-in-one"
 	},
 	"[jsonc]": {
 		"editor.defaultFormatter": "esbenp.prettier-vscode"
