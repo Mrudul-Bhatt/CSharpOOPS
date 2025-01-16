@@ -1,5 +1,30 @@
+# Build output
 bin/
 obj/
-/packages/
+
+# Rider and ReSharper
+.idea/
+_ReSharper.Caches/
 riderModule.iml
-/_ReSharper.Caches/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+
+# Visual Studio Code
+.vscode/
+
+# Log files
+*.log
+
+# macOS system files
+.DS_Store
+
+# Other artifacts
+*.dll
+*.exe
+*.pdb
+
+# NuGet packages (for older .NET projects, if applicable)
+packages/
