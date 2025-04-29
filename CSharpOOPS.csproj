@@ -8,6 +8,7 @@
     </PropertyGroup>
 
     <ItemGroup>
+        <Folder Include="ASP.NET Core\11. Security &amp; Identity\4. Data Protection\7. Compatibility\" />
         <Folder Include="Fundamentals\_4_FunctionalTechniques\_2_Discards\"/>
     </ItemGroup>
 
