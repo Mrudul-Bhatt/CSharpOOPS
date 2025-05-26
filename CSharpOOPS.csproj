@@ -12,4 +12,8 @@
         <Folder Include="Fundamentals\_4_FunctionalTechniques\_2_Discards\"/>
     </ItemGroup>
 
+    <ItemGroup>
+      <None Remove="Transact-SQL\12. Statements\02. ALTER\09. Part 8.md" />
+    </ItemGroup>
+
 </Project>
